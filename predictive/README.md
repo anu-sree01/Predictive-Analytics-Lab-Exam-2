@@ -11,7 +11,7 @@ This is my submission for the lab exam on binary classification. The dataset has
 | File | Description |
 |---|---|
 | `Lab_Exam_binary_classification_dataset.csv` | The raw dataset |
-| `lab_exam_classification.ipynb` | Main notebook with all tasks |
+| `predictive analytics labexam` | Main notebook with all tasks |
 | `class_distribution.png` | Bar chart of class counts |
 | `feature_distributions.png` | Histogram + KDE for each feature |
 | `boxplots_by_class.png` | Box plots comparing features across classes |
